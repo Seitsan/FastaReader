@@ -5,7 +5,7 @@ def main():
     Основной модуль демонстрационной программы
     """
 
-    path = r"C:\Users\denko\Downloads\GCA_000006945.2_ASM694v2_genomic.fna"
+    path = r"C:\Users\denko\Downloads\GCA_000006945.2_ASM694v2_genomic.fna" #Вставить свой путь
 
     try:
         fasta_reader = FastaReader(path)
