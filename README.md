@@ -89,12 +89,3 @@ sphinx-build -b html source build
 3. Закоммитьте изменения (`git commit -m 'Add some amazing feature'`)
 4. Запушьте в ветку (`git push origin feature/amazing-feature`)
 5. Создайте Pull Request
-
-
-### `requirements.txt`
-```text
-# Для основных функций зависимости не требуются
-# Для разработки и документации:
-sphinx>=4.0.0
-sphinx-rtd-theme>=1.0.0
-pytest>=6.0.0
