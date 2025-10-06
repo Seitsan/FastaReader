@@ -77,7 +77,7 @@ python -m pytest tests/
 ```bash
 
 cd docs
-sphinx-build -b html source build
+sphinx-build -b html source build   #Лучше использовать для Windows
 ```
 
 ## Лицензия
